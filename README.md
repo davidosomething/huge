@@ -1,6 +1,4 @@
-# huge
-[![Build Status](https://travis-ci.org/davidosomething/huge.png?branch=master)](https://travis-ci.org/davidosomething/huge)
-
+# huge [![Build Status](https://travis-ci.org/davidosomething/huge.png?branch=master)](https://travis-ci.org/davidosomething/huge)
 Console canvas line and flood-fill program.
 
 ## Getting Started
